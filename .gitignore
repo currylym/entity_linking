@@ -1,0 +1,12 @@
+
+dataset-cnel
+
+doc_fe/Word_Mover_Distance
+
+entity_recall/BaikeInfoExtraction
+entity_recall/abbreviation_alignment.json
+
+data/Tencent_AILab_ChineseEmbedding.txt
+data/lmdb_emb
+data/wv_lmdb
+data
